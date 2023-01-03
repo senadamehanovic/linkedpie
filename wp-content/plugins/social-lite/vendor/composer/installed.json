@@ -1,0 +1,74 @@
+[
+    {
+        "name": "freemius/wordpress-sdk",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Freemius/wordpress-sdk.git",
+            "reference": "35782eb9f19eefc63723afb3196c768bca6dfbd9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Freemius/wordpress-sdk/zipball/35782eb9f19eefc63723afb3196c768bca6dfbd9",
+            "reference": "35782eb9f19eefc63723afb3196c768bca6dfbd9",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "time": "2022-11-14T06:49:45+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "description": "Freemius WordPress SDK",
+        "homepage": "https://freemius.com",
+        "keywords": [
+            "freemius",
+            "plugin",
+            "sdk",
+            "theme",
+            "wordpress",
+            "wordpress-plugin",
+            "wordpress-theme"
+        ]
+    },
+    {
+        "name": "social-develop/utils",
+        "version": "dev-feat/multipackage",
+        "version_normalized": "dev-feat/multipackage",
+        "dist": {
+            "type": "path",
+            "url": "../../../../packages/utils",
+            "reference": "bb1d92ba33ae3925685c4cc5701938b71e37627b"
+        },
+        "archive": {
+            "exclude": [
+                "lib"
+            ]
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ChadwickMarketing\\Utils\\": "src/"
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Matthias Günter",
+                "email": "support@matthias-web.com"
+            }
+        ],
+        "description": "Utility functionality for all your WordPress plugins",
+        "transport-options": {
+            "symlink": false
+        }
+    }
+]

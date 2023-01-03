@@ -8,10 +8,15 @@
 </head>
 <body>
 <?php 
-    wp_nav_menu(['menu' => 'primary', 'container' => '',
-    'theme_location' => 'primary', 'items_wrap' => '<ul id="" class="navbar-nav me-auto mb-2 mb-lg-0">%3$s</ul>',]);
+   // wp_nav_menu(['menu' => 'primary', 'container' => '',
+    //'theme_location' => 'primary', 'items_wrap' => '<ul id="" class="navbar-nav me-auto mb-2 mb-lg-0">%3$s</ul>',]);  
+    
+?> 
 
-    var_dump(get_header());
-?>
+<ul>
+    <li style="float:left"><a class="logo" href="#about">Linkedpie</a></li>
+    <li><a class="signupli" href="">Signup</a></li>
+    <li><a class="loginli" href="">Login</a></li>
+    
+</ul>
 
-<h1 class="hej"> hejdå</h1>

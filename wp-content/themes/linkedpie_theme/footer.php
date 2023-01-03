@@ -3,7 +3,10 @@
   ?>
 
   <footer>
-    <h1>hej</h1>
+    <p>About us</p>
+    <p>Contact us</p>
+    <p>Privacy policy</p>
+    
   </footer>
 </body>
 </html>

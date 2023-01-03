@@ -1,7 +1,129 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    
+}
+
 .hej {
-    color: rgb(193, 75, 95);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .profile > a {
     color: rgb(123, 17, 97);
+}
+
+footer {
+   position: relative;
+    margin-left: 35px;
+    bottom: 0;
+    left: 0;
+    width: 95%;
+    /* Height of the footer*/
+    height: 120px;
+    background: rgb(0, 0, 0);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;  
+}
+
+footer > p {
+    color: white;
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/*navbar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    background-color: inherit;
+  }
+  
+  li {
+    float: right;
+    padding-right: 15px;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial Rounded MT Bold;
+  }
+  
+ 
+  
+.signupli {
+background-color: black;
+color: white;
+border-radius: 25px;
+font-family: Arial Rounded MT Bold;
+}
+
+.logo {
+    font-family: Arial Rounded MT Bold;
+    font-size: 24px;
+}
+
+/* Hero*/
+.column {
+    padding-top: 3px;
+    height: 500px;
+    background-color: #EFD9FF;
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.column p {
+    color: #340763;
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+.column2 {
+    padding-top: 3px;
+    height: 500px;
+    background-color: #A4A4DD;
+    float: left;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+  }
+  
+  /* Clear floats after the columns */
+  .row2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.column2 p {
+    color: #F2F7BE;
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 100px;
+    padding-left: 20px;
 }
