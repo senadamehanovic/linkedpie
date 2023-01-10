@@ -1,0 +1,91 @@
+{
+    "key": "group_5fc593c00a418",
+    "title": "Influencer Link Settings",
+    "fields": [
+        {
+            "key": "field_5fc594bdae27f",
+            "label": "Link Description",
+            "name": "wpmll_byline",
+            "type": "text",
+            "instructions": "Optional one-line description to show below the link label.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5fc593c3360bb",
+            "label": "URL",
+            "name": "wpmll_url",
+            "type": "url",
+            "instructions": "Enter the URL this button should go to.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc59451360bc",
+            "label": "Background Color Override",
+            "name": "wpmll_color_bg",
+            "type": "color_picker",
+            "instructions": "Choose a color here to override this links background color from your global settings.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5fc59468360bd",
+            "label": "Text Color Override",
+            "name": "wpmll_color_text",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "wpm-landing-link"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "acf_after_title",
+    "style": "seamless",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": [
+        "the_content"
+    ],
+    "active": true,
+    "description": "",
+    "modified": 1607200741
+}

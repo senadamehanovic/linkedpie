@@ -1,0 +1,406 @@
+{
+    "key": "group_5fc595d3ccabb",
+    "title": "Influencer Links Settings",
+    "fields": [
+        {
+            "key": "field_5fc595dd38b55",
+            "label": "Activate Landing Page",
+            "name": "wpmll_activate_page",
+            "type": "true_false",
+            "instructions": "Check this box to make this page become your Influencer Links page. This will override your site's theme and template specific to this page. You can create multiple pages with multiple settings, but in the free version of this plugin, the links are all the same.\r\n\r\nBe sure to use the page's Featured Image to set your avatar for the page. We recommend an image cropped 300x300 pixels.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Yes, activate this page.",
+            "default_value": 0,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5fd029c572b68",
+            "label": "Share the Love",
+            "name": "wpmll_opt_builtwith",
+            "type": "true_false",
+            "instructions": "<label for=\"acf-field_5fd029c572b68\" style=\"display:block; font-weight: normal; background:url('\/wp-content\/plugins\/wpm-influencer-links\/assets\/arrow.svg') 0 0 no-repeat;background-size: 40px 40px;\"><span style=\"display:block;padding: 1em 0 1em 46px;\"><b style=\"color:#0682B8;\">Check this box<\/b> to share the love and let the world know you're using our plugin!<\/span><\/label>",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5fc595dd38b55",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Yes, share a small link on the bottom of my links page to support this plugin.",
+            "default_value": 0,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5fc5966c38b56",
+            "label": "Display Options",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5fc595dd38b55",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5fc5967738b57",
+            "label": "Theme",
+            "name": "wpmll_opt_theme",
+            "type": "select",
+            "instructions": "Choose a light (default) or dark theme.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "Light": "Light",
+                "Dark": "Dark"
+            },
+            "default_value": "Light",
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "return_format": "value",
+            "ajax": 0,
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc5969b38b58",
+            "label": "Background Color",
+            "name": "wpmll_opt_bg_color",
+            "type": "color_picker",
+            "instructions": "Use this to override the chosen theme's background color.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5fc596a638b59",
+            "label": "Text Color",
+            "name": "wpmll_opt_text_color",
+            "type": "color_picker",
+            "instructions": "Use this to override the default theme's text color.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5fc596c238b5a",
+            "label": "Link Color",
+            "name": "wpmll_opt_link_color",
+            "type": "color_picker",
+            "instructions": "Use this to override the default link theme color (links and social media icons).",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5fc59f64be85e",
+            "label": "Footer Content",
+            "name": "wpmll_opt_outro",
+            "type": "wysiwyg",
+            "instructions": "This content will display below your links and social media links in the footer of your Landing Links page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_5fc596eb38b5b",
+            "label": "Social Media URLs",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5fc595dd38b55",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5fc596f538b5c",
+            "label": "Facebook",
+            "name": "wpmll_opt_url-facebook",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc5970738b5e",
+            "label": "Instagram",
+            "name": "wpmll_opt_url-instagram",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc5972838b60",
+            "label": "LinkedIn",
+            "name": "wpmll_opt_url-linkedin",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc5971038b5f",
+            "label": "Snapchat",
+            "name": "wpmll_opt_url-snapchat",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc5973338b61",
+            "label": "TikTok",
+            "name": "wpmll_opt_url-tiktok",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fc5970138b5d",
+            "label": "Twitter",
+            "name": "wpmll_opt_url-twitter",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5fc5973c38b62",
+            "label": "Embeds\/Pixels\/Tracking",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5fc595dd38b55",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5fc5a1acf5a3e",
+            "label": "Disable All Other CSS",
+            "name": "wpmll_opt_disable_css",
+            "type": "true_false",
+            "instructions": "Disables the loading of standard theme\/plugin CSS on this page. <b>Remember,<\/b> if you leave this unchecked, any theme and other plugin CSS files loaded on other pages will be loaded on this page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Yes, disable all other CSS.",
+            "default_value": 0,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5fc597c438b63",
+            "label": "Header Scripts",
+            "name": "wpmll_opt_embed-head",
+            "type": "textarea",
+            "instructions": "Do you want to include Google Analytics or a Facebook\/tracking pixel? You can paste it here and it will out put before the closing <code>&lt;\/head&gt;<\/code> element.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5fc597f738b64",
+            "label": "Body Scripts",
+            "name": "wpmll_opt_embed-body",
+            "type": "textarea",
+            "instructions": "Do you need to post something after the opening <code>&lt;body&gt;<\/code> tag? You can paste it here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5fc5983238b65",
+            "label": "Footer Scripts",
+            "name": "wpmll_opt_embed-footer",
+            "type": "textarea",
+            "instructions": "You can paste anything you want to output before the closing <code>&lt;\/body&gt;<\/code> tag.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1607478983
+}

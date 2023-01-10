@@ -1,0 +1,123 @@
+# Copyright (C) 2022 Link In Bio
+# This file is distributed under the same license as the Link In Bio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Link In Bio 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/linkinbio\n"
+"POT-Creation-Date: 2022-05-17 10:29+0200\n"
+"PO-Revision-Date: 2022-05-17 10:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. Plugin Name of the plugin/theme
+#: Controllers/LinkInBioCPT.php:17 Controllers/LinkInBioCPT.php:18
+msgid "Link In Bio"
+msgstr "Link in Bio"
+
+#: Controllers/LinkInBioCPT.php:41
+msgid "Link URL"
+msgstr "Link URL"
+
+#: Controllers/LinkInBioSettings.php:10 excludes/base_translation_dummy.php:11
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: Controllers/LinkInBioSettings.php:12
+msgid "Page"
+msgstr "Seite"
+
+#: Controllers/LinkInBioSettings.php:13
+msgid "Optional Logo"
+msgstr "Fakultatives Logo"
+
+#: Controllers/LinkInBioSettings.php:14
+msgid "Logo size (px)"
+msgstr "Größe des Logos (px)"
+
+#: Controllers/LinkInBioSettings.php:15
+msgid "Optional Name"
+msgstr "Fakultativ Name"
+
+#: Controllers/LinkInBioSettings.php:16
+msgid "Optional URL"
+msgstr "Fakultative URL"
+
+#: Controllers/LinkInBioSettings.php:17
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: Controllers/LinkInBioSettings.php:18
+msgid "Button Color"
+msgstr "Farbe Schaltfläche"
+
+#: Controllers/LinkInBioSettings.php:19
+msgid "Button Hover Color"
+msgstr "Schwebefarbe der Schaltfläche"
+
+#: Controllers/LinkInBioSettings.php:20
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: Controllers/LinkInBioSettings.php:21
+msgid "Text Hover Color"
+msgstr "Schwebefarbe der Text"
+
+#: Controllers/LinkInBioSettings.php:34
+msgid "Link In Bio Page"
+msgstr "Link in Bio-Seite"
+
+#: excludes/base_translation_dummy.php:3
+msgid "Disabled"
+msgstr "Behinderte"
+
+#: excludes/base_translation_dummy.php:4
+msgid "Update"
+msgstr "Update"
+
+#: excludes/base_translation_dummy.php:5
+msgid "Invalid Hex Color"
+msgstr "Ungültige Hex-Farbe"
+
+#: excludes/base_translation_dummy.php:6
+msgid "Invalid Page Selected"
+msgstr "Ungültige Seite ausgewählt"
+
+#: excludes/base_translation_dummy.php:7
+msgid "Invalid Number"
+msgstr "Ungültige Nummer"
+
+#: excludes/base_translation_dummy.php:8
+msgid "Invalid url"
+msgstr "Ungültige Url"
+
+#: excludes/base_translation_dummy.php:9
+msgid "Invalid image"
+msgstr "Ungültiges Bild"
+
+#: excludes/base_translation_dummy.php:10
+msgid "Select %s"
+msgstr "Wählen Sie %s"
+
+#. Plugin URI of the plugin/theme
+msgid "https://contentandcreations.nl/link-in-bio/"
+msgstr "https://contentandcreations.nl/link-in-bio/"
+
+#. Description of the plugin/theme
+msgid "Create a link bio page (linktree&trade; like) for your wordpress site."
+msgstr ""
+"Erstellen Sie eine Link-Bio-Seite (wie linktree&trade;) für Ihre Wordpress-"
+"Website."
+
+#. Author of the plugin/theme
+msgid "Content & Creations"
+msgstr "Content & Creations"
+
+#. Author URI of the plugin/theme
+msgid "https://contentandcreations.nl/"
+msgstr "https://contentandcreations.nl/"

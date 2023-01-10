@@ -1,0 +1,121 @@
+# Copyright (C) 2022 Link In Bio
+# This file is distributed under the same license as the Link In Bio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Link In Bio 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/linkinbio\n"
+"POT-Creation-Date: 2022-05-17 10:29+0200\n"
+"PO-Revision-Date: 2022-05-17 10:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. Plugin Name of the plugin/theme
+#: Controllers/LinkInBioCPT.php:17 Controllers/LinkInBioCPT.php:18
+msgid "Link In Bio"
+msgstr "Link in bio"
+
+#: Controllers/LinkInBioCPT.php:41
+msgid "Link URL"
+msgstr "Link URL"
+
+#: Controllers/LinkInBioSettings.php:10 excludes/base_translation_dummy.php:11
+msgid "Settings"
+msgstr "Instellingen"
+
+#: Controllers/LinkInBioSettings.php:12
+msgid "Page"
+msgstr "Pagina"
+
+#: Controllers/LinkInBioSettings.php:13
+msgid "Optional Logo"
+msgstr "Optioneel logo"
+
+#: Controllers/LinkInBioSettings.php:14
+msgid "Logo size (px)"
+msgstr "Logo grootte (px)"
+
+#: Controllers/LinkInBioSettings.php:15
+msgid "Optional Name"
+msgstr "Optionele naam"
+
+#: Controllers/LinkInBioSettings.php:16
+msgid "Optional URL"
+msgstr "Optionele URL"
+
+#: Controllers/LinkInBioSettings.php:17
+msgid "Background Color"
+msgstr "Achtergrond Kleur"
+
+#: Controllers/LinkInBioSettings.php:18
+msgid "Button Color"
+msgstr "Knop kleur"
+
+#: Controllers/LinkInBioSettings.php:19
+msgid "Button Hover Color"
+msgstr "Knop Hover Kleur"
+
+#: Controllers/LinkInBioSettings.php:20
+msgid "Text Color"
+msgstr "Tekst Kleur"
+
+#: Controllers/LinkInBioSettings.php:21
+msgid "Text Hover Color"
+msgstr "Tekst Hover Kleur"
+
+#: Controllers/LinkInBioSettings.php:34
+msgid "Link In Bio Page"
+msgstr "Link in Bio pagina"
+
+#: excludes/base_translation_dummy.php:3
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: excludes/base_translation_dummy.php:4
+msgid "Update"
+msgstr "Update"
+
+#: excludes/base_translation_dummy.php:5
+msgid "Invalid Hex Color"
+msgstr "Ongeldige Hex kleur"
+
+#: excludes/base_translation_dummy.php:6
+msgid "Invalid Page Selected"
+msgstr "Ongeldige pagina geselecteerd"
+
+#: excludes/base_translation_dummy.php:7
+msgid "Invalid Number"
+msgstr "Ongeldig nummer"
+
+#: excludes/base_translation_dummy.php:8
+msgid "Invalid url"
+msgstr "Ongeldige url"
+
+#: excludes/base_translation_dummy.php:9
+msgid "Invalid image"
+msgstr "Ongeldige afbeelding"
+
+#: excludes/base_translation_dummy.php:10
+msgid "Select %s"
+msgstr "Selecteer %s"
+
+#. Plugin URI of the plugin/theme
+msgid "https://contentandcreations.nl/link-in-bio/"
+msgstr "https://contentandcreations.nl/link-in-bio/"
+
+#. Description of the plugin/theme
+msgid "Create a link bio page (linktree&trade; like) for your wordpress site."
+msgstr "Maak een link bio pagina (zoals linktree&trade;) voor uw wordpress site."
+
+#. Author of the plugin/theme
+msgid "Content & Creations"
+msgstr "Content & Creations"
+
+#. Author URI of the plugin/theme
+msgid "https://contentandcreations.nl/"
+msgstr "https://contentandcreations.nl/"

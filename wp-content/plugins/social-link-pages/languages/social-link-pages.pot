@@ -1,0 +1,1728 @@
+# Copyright (C) 2022 
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Link Pages 1.4.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-23T17:59:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: social-link-pages\n"
+
+#. Plugin Name of the plugin
+msgid "Social Link Pages"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://sociallinkpages.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create a social profile landing page with all of your links at a single url for Instagram, Twitter, Facebook and more."
+msgstr ""
+
+#. Author of the plugin
+msgid "gelform"
+msgstr ""
+
+#: inc/Admin.php:77
+#: inc/Admin.php:105
+#: inc/Admin.php:134
+#: inc/Admin.php:158
+#: inc/Admin.php:203
+#: inc/Admin.php:755
+#: inc/Page.php:474
+#: inc/Page.php:548
+#: inc/Admin.php:88
+#: inc/Admin.php:116
+#: inc/Admin.php:145
+#: inc/Admin.php:169
+#: inc/Admin.php:214
+#: inc/Admin.php:771
+#: inc/Admin.php:797
+#: inc/Page.php:478
+#: inc/Page.php:552
+#: inc/Page.php:481
+#: inc/Page.php:555
+#: inc/Admin.php:773
+#: inc/Admin.php:799
+#: inc/Admin.php:101
+#: inc/Admin.php:129
+#: inc/Admin.php:182
+#: inc/Admin.php:227
+#: inc/Admin.php:288
+#: inc/Admin.php:857
+#: inc/Admin.php:876
+#: inc/Page.php:490
+#: inc/Page.php:564
+#: inc/Admin.php:107
+#: inc/Admin.php:135
+#: inc/Admin.php:164
+#: inc/Admin.php:188
+#: inc/Admin.php:233
+#: inc/Admin.php:296
+#: inc/Admin.php:367
+#: inc/Admin.php:934
+#: inc/Admin.php:953
+#: inc/Admin.php:941
+#: inc/Admin.php:960
+#: inc/Page.php:482
+#: inc/Page.php:556
+msgid "Invalid nonce."
+msgstr ""
+
+#: inc/Admin.php:83
+#: inc/Admin.php:111
+#: inc/Admin.php:140
+#: inc/Admin.php:164
+#: inc/Admin.php:209
+#: inc/Page.php:464
+#: inc/Page.php:587
+#: inc/Page.php:597
+#: inc/Admin.php:94
+#: inc/Admin.php:122
+#: inc/Admin.php:151
+#: inc/Admin.php:175
+#: inc/Admin.php:220
+#: inc/Page.php:468
+#: inc/Page.php:591
+#: inc/Page.php:601
+#: inc/Page.php:471
+#: inc/Page.php:594
+#: inc/Page.php:604
+#: inc/Admin.php:107
+#: inc/Admin.php:135
+#: inc/Admin.php:188
+#: inc/Admin.php:233
+#: inc/Admin.php:294
+#: inc/Page.php:480
+#: inc/Page.php:603
+#: inc/Page.php:613
+#: inc/Page.php:685
+#: inc/Page.php:695
+#: inc/Admin.php:113
+#: inc/Admin.php:141
+#: inc/Admin.php:170
+#: inc/Admin.php:194
+#: inc/Admin.php:239
+#: inc/Admin.php:302
+#: inc/Admin.php:319
+#: inc/Admin.php:373
+#: inc/Page.php:700
+#: inc/Page.php:710
+#: inc/Page.php:472
+#: inc/Page.php:595
+#: inc/Page.php:605
+#: inc/Page.php:692
+#: inc/Page.php:702
+msgid "Parameters missing."
+msgstr ""
+
+#: inc/Admin.php:90
+#: inc/Admin.php:101
+#: inc/Admin.php:114
+#: inc/Admin.php:120
+msgid "Page could not be created."
+msgstr ""
+
+#: inc/Admin.php:173
+#: inc/Page.php:483
+#: inc/Page.php:538
+#: inc/Page.php:606
+#: inc/Admin.php:184
+#: inc/Page.php:487
+#: inc/Page.php:542
+#: inc/Page.php:610
+#: inc/Page.php:490
+#: inc/Page.php:545
+#: inc/Page.php:613
+#: inc/Admin.php:197
+#: inc/Page.php:499
+#: inc/Page.php:554
+#: inc/Page.php:622
+#: inc/Page.php:704
+#: inc/Admin.php:203
+#: inc/Page.php:719
+#: inc/Page.php:491
+#: inc/Page.php:546
+#: inc/Page.php:614
+#: inc/Page.php:711
+msgid "Page not found."
+msgstr ""
+
+#: inc/Admin.php:186
+#: inc/Admin.php:197
+#: inc/Admin.php:210
+#: inc/Admin.php:216
+msgid "You do not have permission to do that."
+msgstr ""
+
+#: inc/Admin.php:220
+#: inc/Page.php:632
+#: inc/Admin.php:231
+#: inc/Page.php:636
+#: inc/Page.php:639
+#: inc/Admin.php:244
+#: inc/Page.php:648
+#: inc/Admin.php:250
+#: inc/Admin.php:313
+#: inc/Page.php:640
+msgid "Invalid API key."
+msgstr ""
+
+#: inc/Admin.php:235
+#: inc/Admin.php:246
+#: inc/Admin.php:259
+msgid "Sorry, could not connect to MailChimp"
+msgstr ""
+
+#: inc/Admin.php:601
+#: inc/Admin.php:619
+#: inc/Admin.php:621
+#: inc/Admin.php:705
+#: inc/Admin.php:782
+#: inc/Admin.php:789
+msgid "Close"
+msgstr ""
+
+#: inc/Admin.php:618
+#: inc/Admin.php:636
+#: inc/Admin.php:638
+#: inc/Admin.php:722
+#: inc/Admin.php:799
+#: inc/Admin.php:806
+msgid "The plugin is not what I was looking for"
+msgstr ""
+
+#: inc/Admin.php:623
+#: inc/Admin.php:641
+#: inc/Admin.php:643
+#: inc/Admin.php:727
+#: inc/Admin.php:804
+#: inc/Admin.php:811
+msgid "What were you looking for?"
+msgstr ""
+
+#: inc/Admin.php:629
+#: inc/Admin.php:647
+#: inc/Admin.php:649
+#: inc/Admin.php:733
+#: inc/Admin.php:810
+#: inc/Admin.php:817
+msgid "I decided to use something else"
+msgstr ""
+
+#: inc/Admin.php:634
+#: inc/Admin.php:652
+#: inc/Admin.php:654
+#: inc/Admin.php:738
+#: inc/Admin.php:815
+#: inc/Admin.php:822
+msgid "What else did you decide to use?"
+msgstr ""
+
+#: inc/Admin.php:640
+#: inc/Admin.php:658
+#: inc/Admin.php:660
+#: inc/Admin.php:744
+#: inc/Admin.php:821
+#: inc/Admin.php:828
+msgid "The plugin didn't have the features I wanted"
+msgstr ""
+
+#: inc/Admin.php:645
+#: inc/Admin.php:663
+#: inc/Admin.php:665
+#: inc/Admin.php:749
+#: inc/Admin.php:826
+#: inc/Admin.php:833
+msgid "What features did you want?"
+msgstr ""
+
+#: inc/Admin.php:648
+#: inc/Admin.php:666
+#: inc/Admin.php:668
+#: inc/Admin.php:752
+#: inc/Admin.php:829
+#: inc/Admin.php:836
+msgid "Want to request the feature instead of uninstalling?"
+msgstr ""
+
+#: inc/Admin.php:654
+#: inc/Admin.php:672
+#: inc/Admin.php:674
+#: inc/Admin.php:758
+#: inc/Admin.php:835
+#: inc/Admin.php:842
+msgid "Email us!"
+msgstr ""
+
+#: inc/Admin.php:661
+#: inc/Admin.php:679
+#: inc/Admin.php:681
+#: inc/Admin.php:765
+#: inc/Admin.php:842
+#: inc/Admin.php:849
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: inc/Admin.php:666
+#: inc/Admin.php:684
+#: inc/Admin.php:686
+#: inc/Admin.php:770
+#: inc/Admin.php:847
+#: inc/Admin.php:854
+msgid "What were you expecting?"
+msgstr ""
+
+#: inc/Admin.php:672
+#: inc/Admin.php:690
+#: inc/Admin.php:692
+#: inc/Admin.php:776
+#: inc/Admin.php:853
+#: inc/Admin.php:860
+msgid "The plugin is not working"
+msgstr ""
+
+#: inc/Admin.php:677
+#: inc/Admin.php:695
+#: inc/Admin.php:697
+#: inc/Admin.php:781
+#: inc/Admin.php:858
+#: inc/Admin.php:865
+msgid "What didn't work?"
+msgstr ""
+
+#: inc/Admin.php:685
+#: inc/Admin.php:703
+#: inc/Admin.php:705
+#: inc/Admin.php:789
+#: inc/Admin.php:866
+#: inc/Admin.php:873
+msgid "Submit feedback &amp; Deactivate"
+msgstr ""
+
+#: inc/Admin.php:692
+#: inc/Admin.php:710
+#: inc/Admin.php:712
+#: inc/Admin.php:796
+#: inc/Admin.php:873
+#: inc/Admin.php:880
+msgid "Skip &amp; Deactivate"
+msgstr ""
+
+#: inc/Page.php:515
+#: inc/Page.php:519
+#: inc/Page.php:522
+#: inc/Page.php:531
+#: inc/Page.php:523
+msgid "Unknown error."
+msgstr ""
+
+#: inc/Page.php:525
+#: inc/Page.php:529
+#: inc/Page.php:532
+#: inc/Page.php:541
+#: inc/Page.php:533
+msgid "Missing param: "
+msgstr ""
+
+#: inc/Page.php:564
+#: inc/Page.php:622
+#: inc/Page.php:568
+#: inc/Page.php:626
+#: inc/Page.php:571
+#: inc/Page.php:629
+#: inc/Page.php:580
+#: inc/Page.php:638
+#: inc/Page.php:720
+#: inc/Page.php:735
+#: inc/Page.php:572
+#: inc/Page.php:630
+#: inc/Page.php:727
+msgid "Button not found."
+msgstr ""
+
+#. translators: %s: Email address
+#: inc/Page.php:571
+#: inc/Page.php:575
+#: inc/Page.php:578
+#: inc/Page.php:587
+#: inc/Page.php:579
+msgid "Email from %s"
+msgstr ""
+
+#: admin/src/components/App.js:93
+#: admin/src/components/App.js:91
+msgid "Learn more about"
+msgstr ""
+
+#: admin/src/components/Header.js:87
+msgid "Page list"
+msgstr ""
+
+#: admin/src/components/Header.js:95
+#: admin/src/components/Modal/PageNew.js:31
+#: admin/src/components/Modal/PageNew.js:43
+msgid "Create a new page"
+msgstr ""
+
+#: admin/src/components/Modal/Contact.js:29
+#: admin/src/components/Modal/Contact.js:52
+msgid "Question? Comment? Feature request?"
+msgstr ""
+
+#: admin/src/components/Modal/Contact.js:33
+#: admin/src/components/Modal/Contact.js:39
+#: admin/src/components/Modal/Poll.js:66
+#: admin/src/components/Modal/Poll.js:72
+msgid "Your email address"
+msgstr ""
+
+#: admin/src/components/Modal/Contact.js:47
+msgid "Your message"
+msgstr ""
+
+#: admin/src/components/Modal/Contact.js:61
+#: admin/src/components/Modal/Poll.js:95
+msgid "Email away!"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:37
+msgid "Need some help?"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:39
+msgid "Create yout first Social Link Page in 60 seconds"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:49
+msgid "Helpful links"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:52
+msgid "Looking for an answer?"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:54
+msgid "Support articles"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:58
+msgid "Having an issue?"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:60
+msgid "Open a support ticket"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:64
+msgid "Question or comment?"
+msgstr ""
+
+#: admin/src/components/Modal/Help.js:66
+msgid "Contact us via email"
+msgstr ""
+
+#: admin/src/components/Modal/Icons.js:18
+msgid "Icons"
+msgstr ""
+
+#: admin/src/components/Modal/Icons.js:20
+#: admin/src/components/Page/Panels/Socials.js:166
+#: admin/src/components/Page/Panels/Socials.js:187
+msgid "Are we missing one?"
+msgstr ""
+
+#: admin/src/components/Modal/Icons.js:22
+#: admin/src/components/Page/Panels/Socials.js:168
+#: admin/src/components/Page/Panels/Socials.js:189
+msgid "Request it!"
+msgstr ""
+
+#: admin/src/components/Modal/PageNew.js:33
+msgid "You are not able to create any more pages at this time. Contact your site admin!"
+msgstr ""
+
+#: admin/src/components/Modal/PageNew.js:45
+#: admin/src/components/Modal/PageNew.js:53
+#: admin/src/components/Modal/PageNew.js:61
+msgid "Enter the \"slug\" for your new page in the form below."
+msgstr ""
+
+#: admin/src/components/Modal/PageNew.js:46
+#: admin/src/components/Modal/PageNew.js:54
+#: admin/src/components/Modal/PageNew.js:50
+#: admin/src/components/Modal/PageNew.js:66
+msgid "This cannot change, so choose carefully!"
+msgstr ""
+
+#: admin/src/components/Modal/PageNew.js:51
+#: admin/src/components/Modal/PageNew.js:59
+msgid "Create your first page!"
+msgstr ""
+
+#: admin/src/components/Modal/PageNew.js:84
+#: admin/src/components/Modal/PageNew.js:100
+msgid "Create page"
+msgstr ""
+
+#: admin/src/components/Modal/PageNew.js:90
+#: admin/src/components/Pages.js:101
+#: admin/src/components/Pages.js:107
+#: admin/src/components/Pages.js:154
+#: admin/src/components/Pages.js:155
+#: admin/src/components/Modal/PageNew.js:106
+msgid "Import pages (.csv)"
+msgstr ""
+
+#: admin/src/components/Page.js:42
+msgid "Page name"
+msgstr ""
+
+#: admin/src/components/Page.js:42
+msgid "(Only you see this)"
+msgstr ""
+
+#: admin/src/components/Page/Panels.js:20
+#: admin/src/components/Page/Panels.js:24
+msgid "Top Content"
+msgstr ""
+
+#: admin/src/components/Page/Panels.js:21
+#: admin/src/components/Page/Panels.js:25
+msgid "Sections"
+msgstr ""
+
+#: admin/src/components/Page/Panels.js:22
+#: admin/src/components/Page/Panels.js:26
+msgid "Socials"
+msgstr ""
+
+#: admin/src/components/Page/Panels.js:23
+#: admin/src/components/Page/Panels.js:27
+msgid "Design"
+msgstr ""
+
+#: admin/src/components/Page/Panels.js:24
+#: admin/src/components/Page/Panels.js:28
+msgid "SEO (OG Tags)"
+msgstr ""
+
+#: admin/src/components/Page/Panels.js:25
+#: admin/src/components/Page/Panels.js:29
+msgid "Options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Button.js:64
+msgid "New"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Button.js:66
+msgid "Button"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Button.js:69
+#: admin/src/components/Page/Panels/Social.js:116
+msgid "clicks"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons.js:73
+#: admin/src/components/Page/Panels/Buttons.js:92
+msgid "Add a section"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons.js:106
+#: admin/src/components/Page/Panels/Socials.js:179
+#: admin/src/components/Page/Panels/Socials.js:200
+#: admin/src/components/Page/Panels/Buttons.js:129
+msgid "Design options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Button.js:32
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:130
+#: admin/src/components/Page/Panels/Buttons/Modal.js:26
+#: admin/src/components/Page/Panels/Socials/Email.js:104
+#: admin/src/components/Page/Panels/Buttons/Convertkit.js:140
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:136
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:192
+#: admin/src/components/Page/Panels/Buttons/Button.js:41
+msgid "Button label"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Button.js:44
+#: admin/src/components/Page/Panels/Buttons/Button.js:53
+msgid "Button link"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:30
+#: admin/src/components/Page/Panels/Content/Avatar.js:35
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:27
+#: admin/src/components/Page/Panels/Design/Favicon.js:18
+#: admin/src/components/Page/Panels/Seo.js:36
+msgid "Select a image to upload"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:32
+#: admin/src/components/Page/Panels/Content/Avatar.js:37
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:29
+#: admin/src/components/Page/Panels/Design/Favicon.js:20
+#: admin/src/components/Page/Panels/Seo.js:38
+msgid "Use this image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:68
+#: admin/src/components/Page/Panels/Buttons/Image.js:75
+msgid "Photo or image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:74
+#: admin/src/components/Page/Panels/Content/Avatar.js:119
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:67
+#: admin/src/components/Page/Panels/Design/Favicon.js:59
+#: admin/src/components/Page/Panels/Seo.js:126
+#: admin/src/components/Page/Panels/Buttons/Image.js:78
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:69
+#: admin/src/components/Page/Panels/Buttons/Image.js:85
+#: admin/src/components/Page/Panels/Content/Avatar.js:132
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:76
+#: admin/src/components/Page/Panels/Design/Favicon.js:67
+#: admin/src/components/Page/Panels/Seo.js:134
+msgid "Choose or upload an image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:84
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:72
+#: admin/src/components/Page/Panels/Buttons/Subtitle.js:45
+#: admin/src/components/Page/Panels/Buttons/Image.js:88
+#: admin/src/components/Page/Panels/Buttons/Image.js:95
+msgid "More options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:89
+#: admin/src/components/Page/Panels/Buttons/Image.js:94
+#: admin/src/components/Page/Panels/Buttons/Image.js:101
+msgid "Caption"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:100
+#: admin/src/components/Page/Panels/Buttons/Image.js:107
+#: admin/src/components/Page/Panels/Buttons/Image.js:114
+msgid "Link"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Image.js:116
+#: admin/src/components/Page/Panels/Buttons/Image.js:124
+#: admin/src/components/Page/Panels/Buttons/Image.js:131
+msgid "Full-width"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:59
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:58
+msgid "Select images to upload"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:61
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:60
+msgid "Use these images"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:134
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:141
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:140
+msgid "Delete"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:143
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:150
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:149
+msgid "Photos or images"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:147
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:151
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:158
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:157
+msgid "Choose or upload images"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:168
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:172
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:179
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:178
+msgid "Format"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:172
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:176
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:183
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:182
+msgid "Grid"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:176
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:180
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:187
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:186
+msgid "Slideshow"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:180
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:184
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:191
+#: admin/src/components/Page/Panels/Buttons/Imagegallery.js:190
+msgid "Carousel"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:81
+#: admin/src/components/Page/Panels/Buttons/Convertkit.js:94
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:87
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:126
+msgid "API Key"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:92
+#: admin/src/components/Page/Panels/Buttons/Convertkit.js:105
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:98
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:138
+msgid "Your API key seems to be invalid."
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:96
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:102
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:143
+msgid "To get your Mailchimp API key"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:101
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:107
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:148
+msgid "follow these instructions."
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:110
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:116
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:172
+msgid "Select a list"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Modal.js:38
+msgid "Modal content"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:79
+msgid "Feature"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:83
+#: admin/src/components/Page/Panels/Design.js:71
+#: admin/src/components/Page/Panels/Design/ShareButtonPosition.js:13
+#: admin/src/components/Page/Panels/Buttons/Sharebuttons.js:19
+#: admin/src/components/Page/Panels/Design.js:72
+#: admin/src/components/Page/Panels/Design.js:69
+msgid "None"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:87
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:118
+msgid "Animate"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:91
+msgid "Flag"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:101
+msgid "Flag label"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:110
+msgid "E.g. New"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:122
+msgid "Wiggle"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:126
+msgid "Pulse"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:139
+msgid "Animate forever?"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:147
+#: admin/src/components/Page/Panels/Design/BackgroundColor.js:28
+#: inc/Community.php:256
+#: inc/Community.php:295
+msgid "Background color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:156
+#: admin/src/components/Page/Panels/Design/BackgroundColor.js:37
+msgid "Set background color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:176
+#: admin/src/components/Page/Panels/Design/Font.js:40
+msgid "Text color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/ButtonProOptions.js:185
+#: admin/src/components/Page/Panels/Design/Font.js:49
+msgid "Set text color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:14
+msgid "Are you sure you want to delete this button?"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:28
+#: admin/src/components/Page/Panels/Design.js:248
+#: admin/src/components/Pages.js:87
+#: admin/src/components/Pages.js:93
+#: admin/src/components/Pages.js:137
+#: admin/src/components/Pages.js:138
+#: admin/src/components/Page/Panels/Design.js:239
+#: admin/src/components/Page/Panels/Design.js:242
+msgid "Advanced options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:38
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:40
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:41
+msgid "Copy this button"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:43
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:45
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:46
+msgid "Delete this button"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:45
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:47
+#: admin/src/components/Page/Panels/Buttons/Partials/MoreOptions.js:48
+msgid "(You will be asked to confirm before the button is deleted.)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Separator.js:21
+msgid "Separator text:"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Subtitle.js:31
+msgid "Button label:"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Subtitle.js:55
+msgid "Format like separator"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content.js:24
+msgid "Description"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:105
+#: admin/src/components/Page/Panels/Content/Avatar.js:113
+msgid "Avatar or logo"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:129
+#: admin/src/components/Page/Panels/Content/Avatar.js:142
+msgid "Remove the avatar"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:138
+#: admin/src/components/Page/Panels/Content/Avatar.js:151
+msgid "Avatar or logo shape"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:148
+#: admin/src/components/Page/Panels/Content/Avatar.js:161
+msgid "More avatar options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:154
+#: admin/src/components/Page/Panels/Content/Avatar.js:167
+msgid "Avatar or logo link (optional)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:163
+#: admin/src/components/Page/Panels/Content/Avatar.js:176
+msgid "A link for the avatar or logo"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/Avatar.js:174
+#: admin/src/components/Page/Panels/Content/Avatar.js:190
+msgid "Add a border around the avatar"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/PageTitle.js:33
+msgid "Page Title"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/PageTitle.js:39
+#: admin/src/components/Page/Panels/Content/PageTitle.js:43
+msgid "The name people will see"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/PageTitle.js:50
+msgid "More page title options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Content/PageTitle.js:55
+msgid "Page title size"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:54
+#: admin/src/components/Page/Panels/Options.js:17
+#: admin/src/components/Pages/Page.js:32
+#: admin/src/components/Pages/Page.js:34
+#: admin/src/components/Page/Panels/Design.js:55
+#: admin/src/components/Page/Panels/Design.js:52
+msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:75
+#: admin/src/components/Page/Panels/Design.js:76
+#: admin/src/components/Page/Panels/Design.js:73
+msgid "Image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:84
+#: admin/src/components/Page/Panels/Design.js:85
+#: admin/src/components/Page/Panels/Design.js:82
+msgid "Avatar"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:94
+#: admin/src/components/Page/Panels/Design.js:95
+#: admin/src/components/Page/Panels/Design.js:92
+msgid "Video"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:102
+#: inc/Community.php:236
+#: inc/Community.php:275
+#: admin/src/components/Page/Panels/Design.js:103
+#: admin/src/components/Page/Panels/Design.js:100
+msgid "Color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:106
+#: inc/Community.php:220
+#: inc/Community.php:259
+#: admin/src/components/Page/Panels/Design.js:107
+#: admin/src/components/Page/Panels/Design.js:104
+msgid "Gradient"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:139
+#: admin/src/components/Page/Panels/Design.js:140
+#: admin/src/components/Page/Panels/Design.js:137
+msgid "Cover"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:143
+#: admin/src/components/Page/Panels/Design.js:144
+#: admin/src/components/Page/Panels/Design.js:141
+msgid "Header"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:151
+#: admin/src/components/Page/Panels/Design.js:152
+#: admin/src/components/Page/Panels/Design.js:149
+msgid "Repeat"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:161
+#: admin/src/components/Page/Panels/Design.js:162
+#: admin/src/components/Page/Panels/Design.js:159
+msgid "Background Media"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:183
+#: admin/src/components/Page/Panels/Design.js:184
+#: admin/src/components/Page/Panels/Design.js:181
+msgid "More background options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:188
+#: admin/src/components/Page/Panels/Design.js:189
+#: admin/src/components/Page/Panels/Design.js:186
+msgid "Background position"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:201
+#: admin/src/components/Page/Panels/Design.js:202
+#: admin/src/components/Page/Panels/Design.js:199
+msgid "Parallax"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:212
+#: admin/src/components/Page/Panels/Design.js:213
+#: admin/src/components/Page/Panels/Design.js:210
+msgid "Background Style"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:256
+#: admin/src/components/Page/Panels/Design.js:247
+#: admin/src/components/Page/Panels/Design.js:250
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design.js:264
+#: admin/src/components/Page/Panels/Design.js:255
+#: admin/src/components/Page/Panels/Design.js:258
+msgid "Be very careful!"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/BackgroundGradient.js:155
+#: inc/Community.php:281
+#: inc/Community.php:320
+msgid "Gradient start color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/BackgroundGradient.js:183
+#: inc/Community.php:294
+#: inc/Community.php:333
+msgid "Gradient end color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/BackgroundGradient.js:203
+msgid "Gradient direction"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:58
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:59
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:66
+msgid "Background image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:79
+#: admin/src/components/Page/Panels/Design/Favicon.js:70
+#: admin/src/components/Page/Panels/Seo.js:138
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:81
+#: admin/src/components/Page/Panels/Design/BackgroundImage.js:88
+#: admin/src/components/Page/Panels/Design/Favicon.js:78
+#: admin/src/components/Page/Panels/Seo.js:146
+msgid "Remove the image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/BackgroundVideo.js:72
+msgid "Embed code"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:78
+msgid "Button shape"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:111
+msgid "Button text color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:120
+msgid "Set button text color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:144
+msgid "Button background color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:153
+msgid "Set button background color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:180
+msgid "More button options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:186
+msgid "Button border color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:196
+msgid "Set button border color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:226
+msgid "Button hover text color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:235
+msgid "Set hover button text color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:265
+msgid "Button hover background color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Buttons.js:277
+msgid "Set hover  button background color"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Favicon.js:50
+#: admin/src/components/Page/Panels/Design/Favicon.js:58
+msgid "Favicon image"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/Font.js:65
+msgid "Font"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/SectionSpacing.js:18
+msgid "Section spacing"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/ShareButtonPosition.js:17
+#: admin/src/components/Page/Panels/Buttons/Sharebuttons.js:23
+msgid "Top"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/ShareButtonPosition.js:21
+#: admin/src/components/Page/Panels/Buttons/Sharebuttons.js:27
+msgid "Bottom"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/ShareButtonPosition.js:28
+#: admin/src/components/Page/Panels/Buttons/Sharebuttons.js:34
+msgid "Share buttons"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/SocialButtons.js:26
+msgid "Social Icons Style"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Design/SocialButtons.js:47
+msgid "Remove social buttons border?"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Options.js:49
+msgid "Show the cookie consent banner"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Options.js:57
+msgid "Cookie consent message"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Options.js:69
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Options.js:83
+msgid "Facebook Pixel"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Options.js:107
+msgid "Skip nonce checks when sending emails?"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Seo.js:63
+#: admin/src/components/Page/Panels/Seo.js:71
+msgid "Title (og:title)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Seo.js:77
+#: admin/src/components/Page/Panels/Seo.js:85
+msgid "Url (og:url)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Seo.js:91
+#: admin/src/components/Page/Panels/Seo.js:99
+msgid "Type (og:type)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Seo.js:105
+#: admin/src/components/Page/Panels/Seo.js:113
+msgid "Description (og:description)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Seo.js:118
+#: admin/src/components/Page/Panels/Seo.js:126
+msgid "Image (og:image)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials.js:130
+#: admin/src/components/Page/Panels/Socials.js:136
+msgid "Add a button"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials.js:189
+#: admin/src/components/Page/Panels/Socials.js:210
+msgid "Move socials to the top?"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials.js:199
+#: admin/src/components/Page/Panels/Socials.js:220
+msgid "Preview icons"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:49
+msgid "Success message"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:49
+msgid "(Optional)"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:63
+msgid "More email options"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:68
+msgid "Email form title"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:74
+msgid "\"Send an email\""
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:80
+msgid "Email input placeholder"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:86
+msgid "\"Enter your email address\""
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:92
+msgid "Message input placeholder"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:98
+msgid "\"Question? Comment?\""
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Email.js:110
+msgid "\"Send email\""
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Linkedin.js:28
+msgid "Link to a company url instead"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Youtube.js:29
+msgid "Use a custom url instead"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Socials/Youtube.js:34
+msgid "More info"
+msgstr ""
+
+#: admin/src/components/Page/Preview.js:17
+#: admin/src/components/Pages/Page.js:44
+#: admin/src/components/Pages/Page.js:46
+#: admin/src/components/Page/Preview.js:23
+msgid "Your url has been copied!"
+msgstr ""
+
+#: admin/src/components/Pages.js:69
+#: admin/src/components/Pages.js:75
+#: admin/src/components/Pages.js:119
+#: admin/src/components/Pages.js:120
+msgid "Choose a page to edit"
+msgstr ""
+
+#: admin/src/components/Pages.js:98
+#: admin/src/components/Pages.js:104
+#: admin/src/components/Pages.js:148
+#: admin/src/components/Pages.js:149
+msgid "Export your pages"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:82
+#: admin/src/components/Pages/Page.js:84
+msgid "Edit"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:99
+#: admin/src/context/PagesContext.js:172
+#: admin/src/components/Pages/Page.js:106
+#: admin/src/context/PagesContext.js:174
+msgid "Copy"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:109
+#: admin/src/components/Pages/Page.js:124
+#: admin/src/components/Render/ShareButtons.js:44
+#: admin/src/components/Render/ShareButtons.js:61
+#: link-page/src/components/Render/ShareButtons.js:44
+#: link-page/src/components/Render/ShareButtons.js:61
+#: admin/src/components/Pages/Page.js:117
+#: admin/src/components/Pages/Page.js:133
+#: admin/src/components/Page/Preview.js:33
+#: admin/src/components/Page/Preview.js:49
+#: admin/src/components/Render/ShareButtons.js:37
+#: link-page/src/components/Render/ShareButtons.js:38
+#: link-page/src/components/Render/ShareButtons.js:54
+#: link-page/src/components/Render/ShareButtons.js:37
+msgid "Check out my page:"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:134
+#: admin/src/components/Pages/Page.js:143
+#: admin/src/components/Pages/Page.js:148
+msgid "Views"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:143
+#: admin/src/components/Pages/Page.js:153
+#: admin/src/components/Pages/Page.js:158
+msgid "Homepage"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:152
+#: admin/src/components/Pages/Page.js:164
+#: admin/src/components/Pages/Page.js:169
+msgid "Total views:"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:181
+#: admin/src/components/Pages/Page.js:194
+#: admin/src/components/Pages/Page.js:199
+#: admin/src/components/Pages/Page.js:207
+msgid "Create copy"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:191
+#: admin/src/components/Pages/Page.js:207
+#: admin/src/components/Pages/Page.js:209
+#: admin/src/components/Pages/Page.js:214
+#: admin/src/components/Pages/Page.js:222
+msgid "Duplicate this page"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:196
+#: admin/src/components/Pages/Page.js:219
+#: admin/src/components/Pages/Page.js:221
+#: admin/src/components/Pages/Page.js:226
+#: admin/src/components/Pages/Page.js:234
+msgid "Delete this page"
+msgstr ""
+
+#: admin/src/components/Render/CookieConsent.js:80
+#: link-page/src/components/Render/CookieConsent.js:80
+#: admin/src/components/Render/CookieConsent.js:82
+#: link-page/src/components/Render/CookieConsent.js:82
+msgid "Accept"
+msgstr ""
+
+#: admin/src/components/Render/CookieConsent.js:83
+#: link-page/src/components/Render/CookieConsent.js:83
+#: admin/src/components/Render/CookieConsent.js:85
+#: link-page/src/components/Render/CookieConsent.js:85
+msgid "Decline"
+msgstr ""
+
+#: admin/src/components/Render/Modal/Email.js:71
+#: link-page/src/components/Render/Modal/Email.js:71
+#: admin/src/components/Render/Modal/Email.js:73
+#: link-page/src/components/Render/Modal/Email.js:73
+msgid "Send an email"
+msgstr ""
+
+#: admin/src/components/Render/Modal/Email.js:92
+#: admin/src/components/Render/Modal/Mailchimp.js:93
+#: link-page/src/components/Render/Modal/Email.js:92
+#: link-page/src/components/Render/Modal/Mailchimp.js:93
+#: admin/src/components/Render/Modal/Email.js:94
+#: admin/src/components/Render/Modal/Mailchimp.js:95
+#: link-page/src/components/Render/Modal/Email.js:94
+#: link-page/src/components/Render/Modal/Mailchimp.js:95
+#: admin/src/components/Render/Modal/Convertkit.js:95
+#: link-page/src/components/Render/Modal/Convertkit.js:95
+#: admin/src/components/Render/Modal/Email.js:95
+#: link-page/src/components/Render/Modal/Email.js:95
+msgid "Enter your email address"
+msgstr ""
+
+#: admin/src/components/Render/Modal/Email.js:106
+#: link-page/src/components/Render/Modal/Email.js:106
+#: admin/src/components/Render/Modal/Email.js:108
+#: link-page/src/components/Render/Modal/Email.js:108
+#: admin/src/components/Render/Modal/Email.js:110
+#: link-page/src/components/Render/Modal/Email.js:110
+msgid "Question? Comment?"
+msgstr ""
+
+#: admin/src/components/Render/Modal/Email.js:120
+#: link-page/src/components/Render/Modal/Email.js:120
+#: admin/src/components/Render/Modal/Email.js:122
+#: link-page/src/components/Render/Modal/Email.js:122
+#: admin/src/components/Render/Modal/Email.js:124
+#: link-page/src/components/Render/Modal/Email.js:124
+msgid "Send email"
+msgstr ""
+
+#: admin/src/components/Render/Modal/Mailchimp.js:97
+#: link-page/src/components/Render/Modal/Mailchimp.js:97
+#: admin/src/components/Render/Modal/Mailchimp.js:99
+#: link-page/src/components/Render/Modal/Mailchimp.js:99
+#: admin/src/components/Render/Modal/Convertkit.js:99
+#: link-page/src/components/Render/Modal/Convertkit.js:99
+msgid "Join"
+msgstr ""
+
+#: admin/src/context/AppContext.js:149
+#: admin/src/context/AppContext.js:165
+msgid "Pease provide an email address."
+msgstr ""
+
+#: admin/src/context/AppContext.js:154
+#: admin/src/context/AppContext.js:170
+msgid "Pease include a message."
+msgstr ""
+
+#: admin/src/context/AppContext.js:166
+#: admin/src/context/AppContext.js:167
+#: admin/src/context/AppContext.js:184
+msgid "Email sent! We will respond as soon as we can. Thanks!"
+msgstr ""
+
+#: admin/src/context/AppContext.js:170
+#: admin/src/context/AppContext.js:171
+#: admin/src/context/AppContext.js:192
+msgid "Whoops! There was an error sending the email. Please contact us at <a href=\"https://sociallinkpages.com/contact/\" target=\"_blank\">https://sociallinkpages.com/contact/</a>"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:68
+#: admin/src/context/PagesContext.js:155
+#: admin/src/context/PagesContext.js:157
+msgid "Please enter a page slug"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:81
+msgid "Whoops! That slug is already used. Please choose another one."
+msgstr ""
+
+#: admin/src/context/PagesContext.js:103
+#: admin/src/context/PagesContext.js:104
+msgid "Whoops! There was an error. Try again?"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:128
+#: admin/src/context/PagesContext.js:130
+msgid "Deleting..."
+msgstr ""
+
+#: admin/src/context/PagesContext.js:141
+#: admin/src/context/PagesContext.js:143
+msgid "Deleted"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:162
+#: admin/src/context/PagesContext.js:207
+#: admin/src/context/PagesContext.js:164
+#: admin/src/context/PagesContext.js:209
+msgid "Page not found"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:230
+#: admin/src/context/PagesContext.js:232
+msgid "Saving..."
+msgstr ""
+
+#: admin/src/context/PagesContext.js:240
+#: admin/src/context/PagesContext.js:242
+msgid "Saved"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:267
+#: admin/src/context/PagesContext.js:304
+#: admin/src/context/PagesContext.js:346
+#: admin/src/context/PagesContext.js:388
+#: admin/src/context/PagesContext.js:412
+#: admin/src/context/PagesContext.js:269
+#: admin/src/context/PagesContext.js:308
+#: admin/src/context/PagesContext.js:352
+#: admin/src/context/PagesContext.js:394
+#: admin/src/context/PagesContext.js:418
+msgid "Whoops! Page not found"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:276
+#: admin/src/context/PagesContext.js:278
+msgid "Button not found"
+msgstr ""
+
+#: admin/src/context/PagesContext.js:361
+#: admin/src/context/PagesContext.js:393
+#: admin/src/context/PagesContext.js:367
+#: admin/src/context/PagesContext.js:399
+msgid "Whoops! Button not found"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Social Link Pages Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Power up your Social Link Pages plugin!"
+msgstr ""
+
+#: inc/Community.php:159
+#: inc/Community.php:178
+msgid "Community Settings"
+msgstr ""
+
+#: inc/Community.php:171
+#: inc/Community.php:190
+msgid "Custom app title"
+msgstr ""
+
+#: inc/Community.php:200
+#: inc/Community.php:219
+msgid "Or disable/hide the app title"
+msgstr ""
+
+#: inc/Community.php:208
+#: inc/Community.php:247
+msgid "Header background"
+msgstr ""
+
+#: inc/Community.php:308
+#: inc/Community.php:347
+msgid "Limit pages per user by"
+msgstr ""
+
+#: inc/Community.php:320
+#: inc/Community.php:359
+msgid "Number"
+msgstr ""
+
+#: inc/Community.php:376
+#: inc/Community.php:404
+#: inc/Community.php:415
+#: inc/Community.php:443
+msgid "Pages per user"
+msgstr ""
+
+#: inc/Community.php:400
+#: inc/Community.php:439
+msgid "Role"
+msgstr ""
+
+#: inc/Community.php:440
+#: inc/Community.php:479
+msgid "Custom help modal content"
+msgstr ""
+
+#: inc/Community.php:450
+#: inc/Community.php:489
+msgid "Enter text or html"
+msgstr ""
+
+#: inc/Community.php:462
+#: inc/Community.php:501
+msgid "Advanced Community settings"
+msgstr ""
+
+#: inc/Community.php:487
+#: inc/Community.php:526
+msgid "Let all users see all media files"
+msgstr ""
+
+#: inc/Community.php:490
+#: inc/Community.php:529
+msgid "By deafult, users will only see media they have uploaded"
+msgstr ""
+
+#: inc/Community.php:514
+#: inc/Community.php:553
+msgid "Let any user edit any Social Link Page"
+msgstr ""
+
+#: inc/Community.php:517
+#: inc/Community.php:556
+msgid "By deafult, users will only see Social Link Pages they have created"
+msgstr ""
+
+#: inc/License.php:110
+#: inc/License.php:169
+#: inc/License.php:260
+#: inc/License.php:114
+#: inc/License.php:173
+#: inc/License.php:264
+msgid "An error occurred, please try again."
+msgstr ""
+
+#. translators: %s: Expiry date
+#: inc/License.php:127
+#: inc/License.php:131
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/License.php:137
+#: inc/License.php:141
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/License.php:142
+#: inc/License.php:146
+msgid "Invalid license."
+msgstr ""
+
+#: inc/License.php:149
+#: inc/License.php:153
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. translators: %s: Name of product
+#: inc/License.php:156
+#: inc/License.php:160
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/License.php:163
+#: inc/License.php:167
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/License.php:266
+#: inc/License.php:270
+msgid "Your license is activated!"
+msgstr ""
+
+#: templates/admin-settings-page.php:66
+msgid "Back to settings"
+msgstr ""
+
+#: templates/admin-settings-page.php:81
+#: templates/admin-settings-page.php:145
+msgid "Update your license"
+msgstr ""
+
+#: templates/admin-settings-page.php:92
+msgid "Visit your account dashboard"
+msgstr ""
+
+#. translators: %s: Name product edition
+#: templates/admin-settings-page.php:124
+msgid "Update your %s License"
+msgstr ""
+
+#: templates/admin-settings-page.php:129
+msgid "License Key"
+msgstr ""
+
+#: templates/admin-settings-page.php:146
+msgid "Activate your license"
+msgstr ""
+
+#: templates/admin-settings-page.php:158
+msgid "View your license information"
+msgstr ""
+
+#: templates/admin-settings-page.php:167
+msgid "Deactivate your license"
+msgstr ""
+
+#: templates/admin-settings-page.php:178
+msgid "Visit your dashboard to retrieve your license"
+msgstr ""
+
+#: templates/admin-settings-page.php:191
+msgid "Please add your license to enable plugin updates."
+msgstr ""
+
+#: templates/admin-settings-page.php:195
+msgid "Visit your Social Link Pages dashboard to retrieve your license."
+msgstr ""
+
+#: templates/admin-settings-page.php:205
+msgid "Pro Settings"
+msgstr ""
+
+#: templates/admin-settings-page.php:230
+msgid "Allow a Link page to be used as the homepage"
+msgstr ""
+
+#: templates/admin-settings-page.php:244
+msgid "Choose the Social Link Pages you would like to use as the homepage"
+msgstr ""
+
+#: templates/admin-settings-page.php:286
+msgid "Disable the link to Social Link Pages in the link page footer"
+msgstr ""
+
+#: templates/admin-settings-page.php:311
+msgid "Plugin Information"
+msgstr ""
+
+#: templates/admin-settings-page.php:321
+msgid "Not activated"
+msgstr ""
+
+#: admin/src/components/Modal/Poll.js:28
+msgid "Thank you so much for your response!"
+msgstr ""
+
+#: admin/src/components/Modal/Poll.js:81
+msgid "Your answer"
+msgstr ""
+
+#: inc/Admin.php:306
+#: inc/Admin.php:385
+msgid "Sorry, could not connect to ConvertKit"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Convertkit.js:109
+msgid "You’ll find your ConvertKit API Key in your Account settings in the ConvertKit dashboard."
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Convertkit.js:120
+msgid "Select a form"
+msgstr ""
+
+#: inc/Community.php:233
+msgid "Custom page footer html"
+msgstr ""
+
+#: inc/Community.php:240
+msgid "Replace \"Powered by Social Link Pages for WordPress\""
+msgstr ""
+
+#: admin/src/components/Modal/Qrcode.js:34
+msgid "QR Code"
+msgstr ""
+
+#: admin/src/components/Render/ShareButtons.js:54
+#: admin/src/components/Render/ShareButtons.js:56
+#: link-page/src/components/Render/ShareButtons.js:54
+#: link-page/src/components/Render/ShareButtons.js:56
+msgid "Check out my page"
+msgstr ""
+
+#: admin/src/components/Pages/Page.js:180
+msgid "Clicks per element:"
+msgstr ""
+
+#: inc/Admin.php:276
+#: inc/Admin.php:347
+#: inc/Page.php:690
+#: inc/Page.php:682
+msgid "Whoops! You could not be subscribed."
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:152
+msgid "Note: Lists with required merge fields/tags are not supported."
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:156
+msgid "To learn how to disable required merge fields, "
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Mailchimp.js:161
+msgid "watch this video"
+msgstr ""
+
+#: admin/src/components/Page/Panels/Buttons/Button.js:72
+msgid "Open in a new tab"
+msgstr ""

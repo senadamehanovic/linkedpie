@@ -1,0 +1,30 @@
+body { margin: 0; padding: 2em 0; background: #EFEBE5; color: #222; }
+body a { color:#0682B8; }
+body.wpm-ll-body-dark { background: #0f0f0f; color: #efefef; }
+section#wpm-ll-main { text-align: center; max-width: 100%; width: 680px; margin: 0 auto; font: 16px "Roboto", sans-serif; line-height: 1.5; }
+section#wpm-ll-main header { margin-bottom: 2em; }
+section#wpm-ll-main header .wpm-ll-thumb { margin: 1em auto;  }
+section#wpm-ll-main header .wpm-ll-thumb img { border-radius: 50%; border: .5em solid #fff; }
+body.wpm-ll-body-dark section#wpm-ll-main header .wpm-ll-thumb img { border: .5em solid #efefef; border-color: rgba(255,255,255,.875); }
+section#wpm-ll-main h1 { font-size: 2em; margin: 0; padding: 0; }
+section#wpm-ll-main p { margin: 1em 0; }
+section#wpm-ll-main article ol.wpm-ll-links { list-style-type: none; margin: 0; padding: 0; }
+section#wpm-ll-main article ol.wpm-ll-links li { margin: 1em auto; }
+section#wpm-ll-main article ol.wpm-ll-links li a { font-size: 20px; font-weight: bold; color: #fff; background: #0682B8; padding: .67em 3em; display: block; text-decoration: none; border-radius: 7px; }
+section#wpm-ll-main article ol.wpm-ll-links li a:hover { background: #fff; color: #0682B8; box-shadow: .5em .5em 1em rgba(0,0,0,.3); }
+section#wpm-ll-main article ol.wpm-ll-links li a span.wpm-ll-link-desc { display: block; font-weight: normal; font-size: 12px; }
+section#wpm-ll-main article ol.wpm-ll-links li a span.wpm-ll-link-desc p { margin: 0 1em; }
+section#wpm-ll-main article ol.wpm-ll-links li a span.wpm-ll-link-desc p:last-child { margin: 0; }
+section#wpm-ll-main footer#wpm-ll-footer .wpm-ll-footer-outro { padding: 1em 0; }
+section#wpm-ll-main .wpm-ll-edit a { display: inline-block; padding: .5em 1em; background: #333; color: #fff !important; border-radius: 5px; text-decoration: none; border: 1px solid #333; font-size: 12px; }
+section#wpm-ll-main .wpm-ll-edit a:hover { background: #fff; color: #222 !important; }
+section#wpm-ll-main .wpm-ll-built { text-align: center; font-size: 11px; padding-top: 2em; color: #000 !important; opacity: .25; margin: 1em 0; }
+section#wpm-ll-main .wpm-ll-built a { color: #000 !important; text-decoration: none; }
+section#wpm-ll-main .wpm-ll-edit { margin: 1em 0; }
+body.wpm-ll-body-dark section#wpm-ll-main .wpm-ll-built,
+body.wpm-ll-body-dark section#wpm-ll-main .wpm-ll-built a { color: #fff !important; }
+
+@media screen and (max-width: 767px){
+    section#wpm-ll-main { margin: 1em auto; padding: 0 2em; }
+    section#wpm-ll-main { width: auto; max-width: auto; }
+}
