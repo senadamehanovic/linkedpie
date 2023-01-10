@@ -1,0 +1,41 @@
+#simplesocial h2 {
+	font-weight: normal;
+}
+
+#simplesocial details h2, #simplesocial details summary {
+	font-size: 1.3em;
+	margin: 15px 0 0;
+	cursor: pointer;
+}
+
+#simplesocial details[open] h2, #simplesocial details[open] summary {
+	margin: 15px 0;
+}
+
+#simplesocial h3 {
+	font-size: 1em;
+}
+
+#simplesocial p.submit {
+	padding: 0;
+	margin: 0;
+}
+
+#simplesocial input[type="text"] {
+	display: block;
+	margin-bottom: 7px;
+	clear: both;
+}
+
+#simplesocial .form-table th {
+	width: 0;
+	padding: 0;
+}
+
+#simplesocial .form-table td {
+	padding: 15px 0;
+}
+
+#simplesocial .postbox {
+	padding: 5px 20px 20px;
+}

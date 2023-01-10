@@ -1,0 +1,64 @@
+.eyeseet-form .form-row,
+.eyeseet-form tr {
+	margin-bottom: 1em;
+}
+
+.eyeseet-form .form-row label,
+.eyeseet-form th {
+	display: inline-block;
+	width: 25%;
+}
+
+.eyeseet-form .form-row > input:not([type='submit']):not([type='number']):not([type='checkbox']),
+.eyeseet-form textarea {
+	width: 70%;
+	padding: 0.2em;
+}
+
+.eyeseet-form .form-row > div {
+	width: 70%;
+	display:inline-flex;
+	justify-content: space-between;
+}
+
+.eyeseet-form .form-row > div div {
+	width: 100%;
+	display:inline-flex;
+	justify-content: space-between;
+}
+
+.eyeseet-form .form-row > div div.sortable {
+	display: block;
+}
+
+.eyeseet-form .form-row > div div.sortable > div {
+	padding-bottom:1em;
+}
+
+.eyeseet-form .form-row div input:not([type='submit']),
+.eyeseet-form .form-row div textarea {
+	width:100%;
+}
+
+
+.eyeseet-form textarea {
+	height: 6em;
+	vertical-align: top;
+}
+
+.eyeseet-form .error {
+	color: #d00;
+}
+
+.eyeseet-form .success {
+	color: #090;
+}
+
+#eyeseet-content .wp-list-table th.column-actions {
+	color: rgba(0,0,0,0);
+}
+
+.eyeseet-admin-menu a.button {
+	margin-right: 0.5em;
+	margin-bottom: 0.5em;
+}
